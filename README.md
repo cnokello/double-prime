@@ -76,6 +76,7 @@ Software requirements:
 Compile and run:
 
 To run the solution, run the following command from within the project directory:
+	
 	> sbt clean compile run
 	
 
@@ -86,6 +87,7 @@ Software Requirements:
 * Python version 3.4. [Installation Guide](https://docs.python.org/3/using/index.html)
 
 To run the solution, run the following command:
+	
 	> python /path/to/DoublePrime.py
 	
 Replace '/path/to/DoublePrime.py' with the actual path to the 'DoublePrime.py' source file.
