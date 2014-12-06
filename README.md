@@ -68,11 +68,10 @@ Both Scala and Python are the same exact implementation line by line, almost.
 **Running the Scala solution**
 
 Software requirements:
-
-	* Git latest stable version. [Installation Guide](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-	* JDK version 1.7 or 1.8. [Installation Guide](https://docs.oracle.com/javase/7/docs/webnotes/install/)
-	* Scala version 2.10.4 or later. [Installation Guide](http://scala-lang.org/download/install.html)
-	* sbt version 0.13. [Installation Guide](http://www.scala-sbt.org/0.13/tutorial/Setup.html)
+* Git latest stable version. [Installation Guide](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* JDK version 1.7 or 1.8. [Installation Guide](https://docs.oracle.com/javase/7/docs/webnotes/install/)
+* Scala version 2.10.4 or later. [Installation Guide](http://scala-lang.org/download/install.html)
+* sbt version 0.13. [Installation Guide](http://www.scala-sbt.org/0.13/tutorial/Setup.html)
 	
 Compile and run:
 
@@ -83,9 +82,8 @@ To run the solution, run the following command from within the project directory
 **Running the Python solution**
 
 Software Requirements:
-	
-	* Git latest stable version. [Installation Guide](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-	* Python version 3.4. [Installation Guide](https://docs.python.org/3/using/index.html)
+* Git latest stable version. [Installation Guide](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* Python version 3.4. [Installation Guide](https://docs.python.org/3/using/index.html)
 
 To run the solution, run the following command:
 	> python /path/to/DoublePrime.py
